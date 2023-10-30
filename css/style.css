@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #d9d7d7;
+    color: #181818;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    display: grid;
+    gap: 16px;
+    background-color: #545353;
+    padding: 32px;
+    border-radius: 8px;
+}
+
+.main-title {
+    margin: 32px 0;
+}
+
+.title {
+    margin: 16px 0;
+}
